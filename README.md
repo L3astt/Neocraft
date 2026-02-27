@@ -1,6 +1,6 @@
 # Neocraft
-Private Repository for the development of Neocraft
+Repository for the development ofthe Neocraft modpack
 
 Updates will be posted in releases, the link will be provided in the beta channel on discord.
 
-Decided to make this because it gets annoying listing changes i don't friking remeber :sob:
+*If you are a random person, just imagine this repo doesn't exist*
