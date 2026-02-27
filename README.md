@@ -1,6 +1,3 @@
 # Neocraft
-Private Repository for the development of Neocraft
-
-Updates will be posted in releases, the link will be provided in the beta channel on discord.
-
-Decided to make this because it gets annoying listing changes i don't friking remeber :sob:
+This branch will include most optimisation mods (and extras) such as sodium and C2ME
+**All branches will be merged into one when porting to 26.1 is complete!**
